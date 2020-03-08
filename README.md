@@ -10,7 +10,16 @@ Writing something into the readme file so that I have something to commit.
 
 ---
 
-# Headline
-## Headline 2
-### Headline 3
-More text goes here
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+More text goes here, some is in *italic*, some is **bold**. 
+~This is some text that I decided to cross out~
+
+<!-- Horizontal rule -->
+
+---
+___
