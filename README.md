@@ -23,7 +23,7 @@ More text goes here, some is in *italic*, some is **bold**.
 \n~This is some text that I decided to cross out~
 
 <!-- GitHub markdown -->
-\nCode block:
+Code block:
 <!-- code blocks -->
 ```python
 def add(num1, num2):
@@ -31,7 +31,7 @@ return num1 + num2
 ```
 
 <!-- tables -->
-\nTable:
+Table:
 | Name     | Email          |
 | -------- | -------------- |
 | John Doe | john@gmail.com |
