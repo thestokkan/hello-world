@@ -20,10 +20,10 @@ Writing something into the readme file so that I have something to commit.
 ##### Heading 5
 ###### Heading 6
 More text goes here, some is in *italic*, some is **bold**. 
-~This is some text that I decided to cross out~
+\n~This is some text that I decided to cross out~
 
 <!-- GitHub markdown -->
-
+\nCode block:
 <!-- code blocks -->
 ```python
 def add(num1, num2):
@@ -31,6 +31,7 @@ return num1 + num2
 ```
 
 <!-- tables -->
+\nTable:
 | Name     | Email          |
 | -------- | -------------- |
 | John Doe | john@gmail.com |
