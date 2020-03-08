@@ -19,8 +19,8 @@ Writing something into the readme file so that I have something to commit.
 #### Heading 4
 ##### Heading 5
 ###### Heading 6
-More text goes here, some is in *italic*, some is **bold**. 
-\n~This is some text that I decided to cross out~
+More text goes here, some is in *italic*, some is **bold**.\
+~This is some text that I decided to cross out~
 
 <!-- GitHub markdown -->
 Code block:
