@@ -25,10 +25,10 @@ More text goes here, some is in *italic*, some is **bold**.
 <!-- GitHub markdown -->
 
 <!-- code blocks -->
-'''python
+´´´python
 def add(num1, num2):
 return num1 + num2
-'''
+
 
 <!-- tables -->
 | Name     | Email          |
